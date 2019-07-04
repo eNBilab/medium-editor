@@ -17,6 +17,27 @@
          */
         commands: [
             {
+                command: 'append-h1',
+                key: '1',
+                meta: true,
+                shift: true,
+                alt: false
+            },
+            {
+                command: 'append-h2',
+                key: '2',
+                meta: true,
+                shift: true,
+                alt: false
+            },
+            {
+                command: 'append-h3',
+                key: '3',
+                meta: true,
+                shift: true,
+                alt: false
+            },
+            {
                 command: 'bold',
                 key: 'B',
                 meta: true,
